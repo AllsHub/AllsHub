@@ -1,11 +1,11 @@
 <h1 align="center">Aldo Maretra Putra</h1>
 
 <p align="center">
-  <b>Astronomy Undergraduate &nbsp;&middot;&nbsp; Machine Learning / AI Engineer</b>
+  <b>Astronomy &nbsp;&middot;&nbsp; Machine Learning / AI Engineering &nbsp;&middot;&nbsp; Mathematics &amp; Physics</b>
 </p>
 
 <p align="center">
-  Turning data &mdash; from the night sky to clinical records &mdash; into models that explain and predict.
+  Turning data into models that explain and predict &mdash; grounded in physics, driven by machine learning.
 </p>
 
 <p align="center">
@@ -20,7 +20,8 @@
 
 - **Astronomy undergraduate** with a research interest in **computational astrophysics** &mdash; galactic dynamics, blast-wave physics, and large survey data (SDSS, NASA Exoplanet Archive).
 - **Machine Learning practitioner** building **end-to-end systems** across classical ML, deep learning, NLP, recommender systems, and **production MLOps** (TFX, MLflow, TensorFlow Serving, Prometheus, Grafana).
-- I work at the intersection of **science and engineering** &mdash; problems where domain understanding and rigorous modeling both matter.
+- Grounded in **mathematics and physics** &mdash; from differential equations and statistical inference to numerical methods &mdash; which is where my modeling intuition comes from.
+- I work at the intersection of **science and engineering**: problems where domain understanding and rigorous modeling both matter.
 
 ---
 
